@@ -1,6 +1,6 @@
 # Image-handling-and-Pixel-transformation-using-openCV
-## NAME:PORKODI B
-## REG NO:212224240114
+## NAME:MOHAMMED JASITH J
+## REG NO:212225230180
 ## AIM: 
 Write a Python program using OpenCV that performs the following tasks:
 
